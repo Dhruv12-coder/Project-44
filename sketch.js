@@ -67,9 +67,7 @@ function setup(){
 
     
 
-    boy.debug = true;
-    girl.debug = true;
-    monster.debug = true;
+    
 
 
 
